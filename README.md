@@ -5,6 +5,6 @@ Naely Paz 👋☆
 
 --
 
-🔎 Interesses⤵️
+🔎 Interesses ⤵️
 📍 Química Geral
 📍 Pesquisa e Investigação na área de Perícia em Locais de Crime (Perícia de Cena de Crime)
