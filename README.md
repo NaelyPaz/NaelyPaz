@@ -1,4 +1,4 @@
-Naely Paz 👋☆
+☆ Naely Paz ☆
 --
 
 📚 **Estudante do Instituto Federal do Ceará (IFCE)**
@@ -15,3 +15,6 @@ Naely Paz 👋☆
 - **Java** ☕
 - **HTML/CSS** 🌐
 - **SQL** 📊
+
+-
+https://giphy.com/gifs/artitudes-cat-dark-3ohhwmSDJmpHNCZi8M
