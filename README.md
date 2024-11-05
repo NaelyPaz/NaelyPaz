@@ -17,4 +17,4 @@
 - **SQL** 📊
 
 -
-https://giphy.com/gifs/artitudes-cat-dark-3ohhwmSDJmpHNCZi8M
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjA2eGE5cTBqbHJxcjZvd2gxNzh3bGlteDNrdXFsbGswcWt6Z3ZidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwmSDJmpHNCZi8M/giphy.webp
